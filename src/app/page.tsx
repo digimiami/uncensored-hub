@@ -182,6 +182,18 @@ export default function Home() {
         </a>
       </section>
 
+      {/* Affiliate Section */}
+      <section className="text-center py-12 border-t border-zinc-800 px-4">
+        <h2 className="text-xl font-bold mb-2">💰 Earn With Us</h2>
+        <p className="text-zinc-400 mb-4 text-sm">Share the apps and earn recurring commissions. Every subscriber pays us monthly.</p>
+        <a
+          href="/affiliate"
+          className="inline-block bg-emerald-600 hover:bg-emerald-700 text-white px-4 py-2 rounded-lg font-medium text-sm transition-colors"
+        >
+          💰 Start Earning
+        </a>
+      </section>
+
       {/* Blog Section */}
       <section className="text-center py-12 border-t border-zinc-800 px-4">
         <h2 className="text-xl font-bold mb-2">Uncensored Blog</h2>
