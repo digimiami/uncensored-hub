@@ -1,6 +1,7 @@
 # Uncensored Blog
 
 - [index](blog/index)
+- [2026-06-26-hidden-history-of-the-vatican-archives-they-dont-want-you-to](blog/2026-06-26-hidden-history-of-the-vatican-archives-they-dont-want-you-to)
 - [2026-06-22-astral-projection-for-beginners-a-practical-guide](blog/2026-06-22-astral-projection-for-beginners-a-practical-guide)
 - [2026-06-21-prison-planet-theory-explained-why-some-believe-earth-is-a-s](blog/2026-06-21-prison-planet-theory-explained-why-some-believe-earth-is-a-s)
 - [2026-06-21-mkultra-exposed-the-cias-secret-mind-control-program](blog/2026-06-21-mkultra-exposed-the-cias-secret-mind-control-program)
