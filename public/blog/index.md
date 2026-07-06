@@ -1,6 +1,7 @@
 # Uncensored Blog
 
 - [index](blog/index)
+- [2026-07-06-deep-esoteric-knowledge-prison-planet-archons-and-soul-traps](blog/2026-07-06-deep-esoteric-knowledge-prison-planet-archons-and-soul-traps)
 - [2026-07-03-natural-remedies-that-work-evidence-based-guide](blog/2026-07-03-natural-remedies-that-work-evidence-based-guide)
 - [2026-07-01-the-real-story-behind-the-bohemian-grove](blog/2026-07-01-the-real-story-behind-the-bohemian-grove)
 - [2026-06-29-why-uncensored-ai-matters-free-speech-in-the-age-of-censorsh](blog/2026-06-29-why-uncensored-ai-matters-free-speech-in-the-age-of-censorsh)
