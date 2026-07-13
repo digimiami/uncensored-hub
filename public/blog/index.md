@@ -1,6 +1,7 @@
 # Uncensored Blog
 
 - [index](blog/index)
+- [2026-07-13-how-to-protect-your-privacy-online-complete-2026-guide](blog/2026-07-13-how-to-protect-your-privacy-online-complete-2026-guide)
 - [2026-07-10-the-tr-3b-americas-secret-anti-gravity-aircraft](blog/2026-07-10-the-tr-3b-americas-secret-anti-gravity-aircraft)
 - [2026-07-08-reverse-engineering-basics-a-practical-introduction](blog/2026-07-08-reverse-engineering-basics-a-practical-introduction)
 - [2026-07-06-deep-esoteric-knowledge-prison-planet-archons-and-soul-traps](blog/2026-07-06-deep-esoteric-knowledge-prison-planet-archons-and-soul-traps)
