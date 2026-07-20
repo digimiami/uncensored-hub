@@ -1,6 +1,7 @@
 # Uncensored Blog
 
 - [index](blog/index)
+- [2026-07-20-dopamine-detox-reset-your-brains-reward-system](blog/2026-07-20-dopamine-detox-reset-your-brains-reward-system)
 - [2026-07-17-the-goddess-in-world-religions-suppressed-feminine-divine](blog/2026-07-17-the-goddess-in-world-religions-suppressed-feminine-divine)
 - [2026-07-15-colloidal-silver-history-preparation-and-usage](blog/2026-07-15-colloidal-silver-history-preparation-and-usage)
 - [2026-07-13-how-to-protect-your-privacy-online-complete-2026-guide](blog/2026-07-13-how-to-protect-your-privacy-online-complete-2026-guide)
