@@ -1,6 +1,7 @@
 # Uncensored Blog
 
 - [index](blog/index)
+- [2026-07-24-prison-planet-theory-explained-why-some-believe-earth-is-a-s](blog/2026-07-24-prison-planet-theory-explained-why-some-believe-earth-is-a-s)
 - [2026-07-22-what-happened-at-the-montauk-project](blog/2026-07-22-what-happened-at-the-montauk-project)
 - [2026-07-20-dopamine-detox-reset-your-brains-reward-system](blog/2026-07-20-dopamine-detox-reset-your-brains-reward-system)
 - [2026-07-17-the-goddess-in-world-religions-suppressed-feminine-divine](blog/2026-07-17-the-goddess-in-world-religions-suppressed-feminine-divine)
